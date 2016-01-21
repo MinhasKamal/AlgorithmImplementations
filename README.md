@@ -1,4 +1,5 @@
 # Algorithm Implementations
+<pre>
 |-arithmeticExpressions
   |-InfixEvaluation
   |-InfixToPostfix
@@ -17,13 +18,13 @@
   |-string
     |-String
     |-StringLongestCommonSubSecuence
-  	|-StringLongestIncreasingSubSecuence
+    |-StringLongestIncreasingSubSecuence
   |-tree
-  	|-ActivitySelection
-  	|-BalanceTree
-  	|-KdTree
-  	|-BinaryHeap
-  	|-BinomialTree
+    |-ActivitySelection
+    |-BalanceTree
+    |-KdTree
+    |-BinaryHeap
+    |-BinomialTree
 |-graph
   |-BreathFirstSearch
   |-DepthFirstSearch
@@ -38,12 +39,32 @@
     |-IntersectingArea
   |-equationSolving
     |-LinearEquationSolvingProcess
-	  |-NonLinearEquationSolvingProcess
+      |-JacobisMethod
+      |-GaussSeidalMethod
+    |-NonLinearEquationSolvingProcess
+      |-BisectionMethod
+      |-FalsePosition
+      |-NewtonRaphson
+      |-FixedPoint
+      |-Secant
 |-others
+  |-cigaretteSmokersProblem
+  |-geneticAlgorithm
+  |-huffmanAlgorithm
 |-search
+  |-AStarSearch
+  |-BinarySearch
+  |-KnuthMorrisPrattAlgorithm
 |-sort
-  |-quickSort
+  |-QuickSort
 |-thread
+  |-priorityBased
+    |-nonpremitive
+    |-premitive
+  |-shortestJob
+    |-nonpremitive
+    |-premitive
+</pre>
 
 # License
 <a rel="license" href="http://www.gnu.org/licenses/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br/>All these algorithm implementations are licensed under a <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version-3</a>.
