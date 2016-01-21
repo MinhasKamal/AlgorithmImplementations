@@ -1,69 +1,69 @@
 # Algorithm Implementations
 <pre>
 |-arithmeticExpressions
-  |-InfixEvaluation
-  |-InfixToPostfix
-  |-InfixToPrefix
-  |-PostfixEvaluation
-  |-PrefixEvaluation
+    |-InfixEvaluation
+    |-InfixToPostfix
+    |-InfixToPrefix
+    |-PostfixEvaluation
+    |-PrefixEvaluation
 |-dataStructures
-  |-listImplementation
-    |-implementationUsingNode
-      |-OneWayLinkedList
-      |-TwoWayLinkedList
-    |-OneWayLinkedList
-    |-TwoWayLinkedList
-  |-stack
-    |-StackImplementation
-  |-string
-    |-String
-    |-StringLongestCommonSubSecuence
-    |-StringLongestIncreasingSubSecuence
-  |-tree
-    |-ActivitySelection
-    |-BalanceTree
-    |-KdTree
-    |-BinaryHeap
-    |-BinomialTree
+    |-listImplementation
+        |-implementationUsingNode
+            |-OneWayLinkedList
+            |-TwoWayLinkedList
+        |-OneWayLinkedList
+        |-TwoWayLinkedList
+    |-stack
+        |-StackImplementation
+    |-string
+        |-String
+        |-StringLongestCommonSubSecuence
+        |-StringLongestIncreasingSubSecuence
+    |-tree
+        |-ActivitySelection
+        |-BalanceTree
+        |-KdTree
+        |-BinaryHeap
+        |-BinomialTree
 |-graph
-  |-BreathFirstSearch
-  |-DepthFirstSearch
-  |-MaxFlow
-  |-ShortestPathAlgorithm
-  |-TopologicalSort
+    |-BreathFirstSearch
+    |-DepthFirstSearch
+    |-MaxFlow
+    |-ShortestPathAlgorithm
+    |-TopologicalSort
 |-numericalMethods
-  |-calculus
-    |-DerivetivesOnDifferentPoints
-    |-IntegrationForwardInterpolation
-    |-IntegrationSimpsonRule
-    |-IntersectingArea
-  |-equationSolving
-    |-LinearEquationSolvingProcess
-      |-JacobisMethod
-      |-GaussSeidalMethod
-    |-NonLinearEquationSolvingProcess
-      |-BisectionMethod
-      |-FalsePosition
-      |-NewtonRaphson
-      |-FixedPoint
-      |-Secant
+    |-calculus
+        |-DerivetivesOnDifferentPoints
+        |-IntegrationForwardInterpolation
+        |-IntegrationSimpsonRule
+        |-IntersectingArea
+    |-equationSolving
+        |-LinearEquationSolvingProcess
+            |-JacobisMethod
+            |-GaussSeidalMethod
+        |-NonLinearEquationSolvingProcess
+            |-BisectionMethod
+            |-FalsePosition
+            |-NewtonRaphson
+            |-FixedPoint
+            |-Secant
 |-others
-  |-cigaretteSmokersProblem
-  |-geneticAlgorithm
-  |-huffmanAlgorithm
+    |-cigaretteSmokersProblem
+    |-geneticAlgorithm
+    |-huffmanAlgorithm
 |-search
-  |-AStarSearch
-  |-BinarySearch
-  |-KnuthMorrisPrattAlgorithm
+    |-AStarSearch
+    |-BinarySearch
+    |-KnuthMorrisPrattAlgorithm
 |-sort
-  |-QuickSort
+    |-QuickSort
 |-thread
-  |-priorityBased
-    |-nonpremitive
-    |-premitive
-  |-shortestJob
-    |-nonpremitive
-    |-premitive
+    |-priorityBased
+        |-nonpremitive
+        |-premitive
+    |-shortestJob
+        |-nonpremitive
+        |-premitive
 </pre>
 
 # License
