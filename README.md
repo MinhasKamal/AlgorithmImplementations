@@ -1,69 +1,69 @@
 # Algorithm Implementations
 <pre>
-|-arithmeticExpressions
-    |-InfixEvaluation
-    |-InfixToPostfix
-    |-InfixToPrefix
-    |-PostfixEvaluation
-    |-PrefixEvaluation
-|-dataStructures
-    |-listImplementation
-        |-implementationUsingNode
-            |-OneWayLinkedList
-            |-TwoWayLinkedList
-        |-OneWayLinkedList
-        |-TwoWayLinkedList
-    |-stack
-        |-StackImplementation
-    |-string
-        |-String
-        |-StringLongestCommonSubSecuence
-        |-StringLongestIncreasingSubSecuence
-    |-tree
-        |-ActivitySelection
-        |-BalanceTree
-        |-KdTree
-        |-BinaryHeap
-        |-BinomialTree
-|-graph
-    |-BreathFirstSearch
-    |-DepthFirstSearch
-    |-MaxFlow
-    |-ShortestPathAlgorithm
-    |-TopologicalSort
-|-numericalMethods
-    |-calculus
-        |-DerivetivesOnDifferentPoints
-        |-IntegrationForwardInterpolation
-        |-IntegrationSimpsonRule
-        |-IntersectingArea
-    |-equationSolving
-        |-LinearEquationSolvingProcess
-            |-JacobisMethod
-            |-GaussSeidalMethod
-        |-NonLinearEquationSolvingProcess
-            |-BisectionMethod
-            |-FalsePosition
-            |-NewtonRaphson
-            |-FixedPoint
-            |-Secant
-|-others
-    |-cigaretteSmokersProblem
-    |-geneticAlgorithm
-    |-huffmanAlgorithm
-|-search
-    |-AStarSearch
-    |-BinarySearch
-    |-KnuthMorrisPrattAlgorithm
-|-sort
-    |-QuickSort
-|-thread
-    |-priorityBased
-        |-nonpremitive
-        |-premitive
-    |-shortestJob
-        |-nonpremitive
-        |-premitive
+├─arithmeticExpressions
+│   ├─InfixEvaluation
+│   ├─InfixToPostfix
+│   ├─InfixToPrefix
+│   ├─PostfixEvaluation
+│   └─PrefixEvaluation
+├─dataStructures
+│   ├─listImplementation
+│   │   ├─implementationUsingNode
+│   │   │   ├─OneWayLinkedList
+│   │   │   └─TwoWayLinkedList
+│   │   ├─OneWayLinkedList
+│   │   └─TwoWayLinkedList
+│   ├─stack
+│   │   └─StackImplementation
+│   ├─string
+│   │   ├─String
+│   │   ├─StringLongestCommonSubSecuence
+│   │   └─StringLongestIncreasingSubSecuence
+│   └─tree
+│       ├─ActivitySelection
+│       ├─BalanceTree
+│       ├─KdTree
+│       ├─BinaryHeap
+│       └─BinomialTree
+├─graph
+│   ├─BreathFirstSearch
+│   ├─DepthFirstSearch
+│   ├─MaxFlow
+│   ├─ShortestPathAlgorithm
+│   └─TopologicalSort
+├─numericalMethods
+│   ├─calculus
+│   │   ├─DerivetivesOnDifferentPoints
+│   │   ├─IntegrationForwardInterpolation
+│   │   ├─IntegrationSimpsonRule
+│   │   └─IntersectingArea
+│   └─equationSolving
+│       ├─LinearEquationSolvingProcess
+│       │   ├─JacobisMethod
+│       │   └─GaussSeidalMethod
+│       └─NonLinearEquationSolvingProcess
+│           ├─BisectionMethod
+│           ├─FalsePosition
+│           ├─NewtonRaphson
+│           ├─FixedPoint
+│           └─Secant
+├─others
+│   ├─cigaretteSmokersProblem
+│   ├─geneticAlgorithm
+│   └─huffmanAlgorithm
+├─search
+│   ├─AStarSearch
+│   ├─BinarySearch
+│   └─KnuthMorrisPrattAlgorithm
+├─sort
+│   └─QuickSort
+└─thread
+    ├─priorityBased
+    │   ├─nonpremitive
+    │   └─premitive
+    └─shortestJob
+        ├─nonpremitive
+        └─premitive
 </pre>
 
 # License
