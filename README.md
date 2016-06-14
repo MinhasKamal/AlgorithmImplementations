@@ -1,7 +1,7 @@
 # Algorithm Implementations
 #### Implementation of Elementary Algorithms
 
-The project contains algorithms that were implemented in my Data Structure & Algorithms course. Yes, I got marks for those. :sunglasses:
+[The project](http://minhaskamal.github.io/AlgorithmImplementations) contains algorithms that were implemented in my Data Structure & Algorithms course. Yes, I got marks for those. :sunglasses:
 
 ### Categorical List of Algorithms
 
