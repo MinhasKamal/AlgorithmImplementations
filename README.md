@@ -5,7 +5,7 @@ The project contains algorithms that were implemented in my Data Structure & Alg
 
 ### Categorical List of Algorithms
 
-AlgorithmImplementations
+AlgorithmImplementations <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    ├─arithmeticExpressions <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;   ├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/arithmeticExpressions/infixEvaluation">InfixEvaluation</a> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;   ├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/arithmeticExpressions/infixToPostfix">InfixToPostfix</a> <br/>
