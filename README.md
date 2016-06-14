@@ -31,7 +31,7 @@ AlgorithmImplementations <br/>
 &emsp;│&emsp; &emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/dataStructures/tree/kdTree">KdTree</a> <br/>
 &emsp;│&emsp; &emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/dataStructures/tree/BinaryHeap.cpp">BinaryHeap</a> <br/>
 &emsp;│&emsp; &emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/dataStructures/tree/BinomialTree.cpp">BinomialTree</a> <br/>
-&emsp;├─graph <br/>
+&emsp;├─ graph <br/>
 &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/graph/breathFirstSearch">BreathFirstSearch</a> <br/>
 &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/graph/depthFirstSearch">DepthFirstSearch</a> <br/>
 &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/graph/maxFlow">MaxFlow</a> <br/>
@@ -72,4 +72,4 @@ AlgorithmImplementations <br/>
 &emsp; &emsp; &emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/shortestJob/premitive">premitive</a> <br/>
 
 # License
-<a rel="license" href="http://www.gnu.org/licenses/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br/>All these algorithm-implementations are licensed under a <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version-3</a>.
+<a rel="license" href="http://www.gnu.org/licenses/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br/>This project is licensed under <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version-3</a>.
