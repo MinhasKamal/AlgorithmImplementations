@@ -1,6 +1,7 @@
 # Algorithm Implementations
 #### Implementation of Elementary Algorithms
 
+### Categorical List of Algorithms
 <pre>
 ├─arithmeticExpressions
 │   ├─InfixEvaluation
