@@ -5,7 +5,7 @@ The project contains algorithms that were implemented in my Data Structure & Alg
 
 ### Categorical List of Algorithms
 
-<font face="monospace">
+<font style="font-family=monospace;">
 ├─arithmeticExpressions <br/>
 │   ├─InfixEvaluation <br/>
 │   ├─InfixToPostfix <br/>
