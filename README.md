@@ -26,11 +26,11 @@ AlgorithmImplementations <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;   │&nbsp;&nbsp;&nbsp;&nbsp;   ├─StringLongestCommonSubSecuence <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;   │&nbsp;&nbsp;&nbsp;&nbsp;   └─StringLongestIncreasingSubSecuence <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;   └─tree <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   ├─ActivitySelection <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   ├─BalanceTree <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   ├─KdTree <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   ├─BinaryHeap <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   └─BinomialTree <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├─ActivitySelection <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├─BalanceTree <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├─KdTree <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├─BinaryHeap <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └─BinomialTree <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    ├─graph <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;   ├─BreathFirstSearch <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;   ├─DepthFirstSearch <br/>
@@ -48,11 +48,11 @@ AlgorithmImplementations <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   │&nbsp;&nbsp;&nbsp;&nbsp;   ├─JacobisMethod <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   │&nbsp;&nbsp;&nbsp;&nbsp;   └─GaussSeidalMethod <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   └─NonLinearEquationSolvingProcess <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   ├─BisectionMethod <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   ├─FalsePosition <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   ├─NewtonRaphson <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   ├─FixedPoint <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   └─Secant <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├─BisectionMethod <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├─FalsePosition <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├─NewtonRaphson <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├─FixedPoint <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └─Secant <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    ├─others <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;   ├─cigaretteSmokersProblem <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;    │&nbsp;&nbsp;&nbsp;&nbsp;   ├─geneticAlgorithm <br/>
@@ -68,8 +68,8 @@ AlgorithmImplementations <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;     &nbsp;&nbsp;&nbsp;&nbsp;   │&nbsp;&nbsp;&nbsp;&nbsp;   ├─nonpremitive <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;     &nbsp;&nbsp;&nbsp;&nbsp;   │&nbsp;&nbsp;&nbsp;&nbsp;   └─premitive <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;     &nbsp;&nbsp;&nbsp;&nbsp;   └─shortestJob <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;     &nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   ├─nonpremitive <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;     &nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;   └─premitive <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ├─nonpremitive <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └─premitive <br/>
 
 # License
 <a rel="license" href="http://www.gnu.org/licenses/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br/>All these algorithm-implementations are licensed under a <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version-3</a>.
