@@ -32,37 +32,37 @@ AlgorithmImplementations <br/>
 &emsp;│&emsp; &emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/dataStructures/tree/BinaryHeap.cpp">BinaryHeap</a> <br/>
 &emsp;│&emsp; &emsp;└─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/dataStructures/tree/BinomialTree.cpp">BinomialTree</a> <br/>
 &emsp;├─graph <br/>
-&emsp;│&emsp;├─<a href="">BreathFirstSearch</a> <br/>
-&emsp;│&emsp;├─<a href="">DepthFirstSearch</a> <br/>
-&emsp;│&emsp;├─<a href="">MaxFlow</a> <br/>
-&emsp;│&emsp;├─<a href="">ShortestPathAlgorithm</a> <br/>
-&emsp;│&emsp;└─<a href="">TopologicalSort</a> <br/>
+&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/graph/breathFirstSearch">BreathFirstSearch</a> <br/>
+&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/graph/depthFirstSearch">DepthFirstSearch</a> <br/>
+&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/graph/maxFlow">MaxFlow</a> <br/>
+&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/graph/shortestPathAlgorithm">ShortestPathAlgorithm</a> <br/>
+&emsp;│&emsp;└─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/graph/topologicalSort">TopologicalSort</a> <br/>
 &emsp;├─numericalMethods <br/>
 &emsp;│&emsp;├─calculus <br/>
-&emsp;│&emsp;│&emsp;├─<a href="">DerivetivesOnDifferentPoints</a> <br/>
-&emsp;│&emsp;│&emsp;├─<a href="">IntegrationForwardInterpolation</a> <br/>
-&emsp;│&emsp;│&emsp;├─<a href="">IntegrationSimpsonRule</a> <br/>
-&emsp;│&emsp;│&emsp;└─<a href="">IntersectingArea</a> <br/>
+&emsp;│&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/numericalMethods/calculus/DerivetivesOnDifferentPoints.c">DerivetivesOnDifferentPoints</a> <br/>
+&emsp;│&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/numericalMethods/calculus/IntegrationForwardInterpolation.c">IntegrationForwardInterpolation</a> <br/>
+&emsp;│&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/numericalMethods/calculus/IntegrationSimpsonRule.c">IntegrationSimpsonRule</a> <br/>
+&emsp;│&emsp;│&emsp;└─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/numericalMethods/calculus/IntersectingArea.c">IntersectingArea</a> <br/>
 &emsp;│&emsp;└─equationSolving <br/>
-&emsp;│&emsp; &emsp;├─LinearEquationSolvingProcess <br/>
-&emsp;│&emsp; &emsp;│&emsp;├─<a href="">JacobisMethod</a> <br/>
-&emsp;│&emsp; &emsp;│&emsp;└─<a href="">GaussSeidalMethod</a> <br/>
-&emsp;│&emsp; &emsp;└─NonLinearEquationSolvingProcess</a> <br/>
-&emsp;│&emsp; &emsp; &emsp;├─<a href="">BisectionMethod</a> <br/>
-&emsp;│&emsp; &emsp; &emsp;├─<a href="">FalsePosition</a> <br/>
-&emsp;│&emsp; &emsp; &emsp;├─<a href="">NewtonRaphson</a> <br/>
-&emsp;│&emsp; &emsp; &emsp;├─<a href="">FixedPoint</a> <br/>
-&emsp;│&emsp; &emsp; &emsp;└─<a href="">Secant</a> <br/>
+&emsp;│&emsp; &emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/numericalMethods/equationSolving/LinearEquationSolvingProcess.c">LinearEquationSolvingProcess</a> <br/>
+&emsp;│&emsp; &emsp;│&emsp;├─JacobisMethod <br/>
+&emsp;│&emsp; &emsp;│&emsp;└─GaussSeidalMethod <br/>
+&emsp;│&emsp; &emsp;└─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/numericalMethods/equationSolving/NonLinearEquationSolvingProcess.c">NonLinearEquationSolvingProcess</a> <br/>
+&emsp;│&emsp; &emsp; &emsp;├─BisectionMethod <br/>
+&emsp;│&emsp; &emsp; &emsp;├─FalsePosition <br/>
+&emsp;│&emsp; &emsp; &emsp;├─NewtonRaphson <br/>
+&emsp;│&emsp; &emsp; &emsp;├─FixedPoint <br/>
+&emsp;│&emsp; &emsp; &emsp;└─Secant <br/>
 &emsp;├─others <br/>
-&emsp;│&emsp;├─<a href="">cigaretteSmokersProblem</a> <br/>
-&emsp;│&emsp;├─<a href="">geneticAlgorithm</a> <br/>
-&emsp;│&emsp;└─<a href="">huffmanAlgorithm</a> <br/>
+&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/others/cigaretteSmokersProblem">cigaretteSmokersProblem</a> <br/>
+&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/others/geneticAlgorithm">geneticAlgorithm</a> <br/>
+&emsp;│&emsp;└─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/others/huffmanAlgorithm">huffmanAlgorithm</a> <br/>
 &emsp;├─search <br/>
-&emsp;│&emsp;├─<a href="">AStarSearch</a> <br/>
-&emsp;│&emsp;├─<a href="">BinarySearch</a> <br/>
-&emsp;│&emsp;└─<a href="">KnuthMorrisPrattAlgorithm</a> <br/>
+&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/search/aStarSearch">AStarSearch</a> <br/>
+&emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/search/binarySearch">BinarySearch</a> <br/>
+&emsp;│&emsp;└─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/search/knuthMorrisPrattAlgorithm">KnuthMorrisPrattAlgorithm</a> <br/>
 &emsp;├─sort <br/>
-&emsp;│&emsp;└─<a href="">QuickSort</a> <br/>
+&emsp;│&emsp;└─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/sort/quickSort">QuickSort</a> <br/>
 &emsp;└─thread <br/>
 &emsp; &emsp;├─priorityBased</a> <br/>
 &emsp; &emsp;│&emsp;├─<a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/priorityBased/nonpremitive">nonpremitive</a> <br/>
