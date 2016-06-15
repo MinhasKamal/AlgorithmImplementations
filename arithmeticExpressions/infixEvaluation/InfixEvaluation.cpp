@@ -1,6 +1,6 @@
 /**
-Name: Minhas Kamal
-Description: This program reads a infix notation from a file & finds the result
+Name: Minhas Kamal (minhaskamal024@gmail.com)
+Description: This program reads an infix notation from a file & finds the result.
 Date: Oct-2013
 **/
 
@@ -8,7 +8,8 @@ Date: Oct-2013
 #include <string>
 #include <fstream>
 #include <vector>
-#include <stack>
+#include <stack>
+
 using namespace std;
 
 
