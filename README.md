@@ -72,4 +72,4 @@ AlgorithmImplementations <br/>
 &emsp; &emsp; &emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/shortestJob/premitive">premitive</a> <br/>
 
 ### License
-<a rel="license" href="http://www.gnu.org/licenses/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br/>This project is licensed under <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version-3</a>.
+<a rel="license" href="http://www.gnu.org/licenses/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br/><a href="https://github.com/MinhasKamal/AlgorithmImplementations">This project</a> is licensed under <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version-3</a>.
