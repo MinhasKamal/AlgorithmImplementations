@@ -65,11 +65,11 @@ AlgorithmImplementations <br/>
 &emsp;│&emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/sort/quickSort">QuickSort</a> <br/>
 &emsp;├─ thread <br/>
 &emsp;│&emsp;├─ priorityBased</a> <br/>
-&emsp;│&emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/priorityBased/nonpremitive">nonpremitive</a> <br/>
-&emsp;│&emsp;│&emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/priorityBased/premitive">premitive</a> <br/>
+&emsp;│&emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/priorityBased/nonpremitive">nonpreemptive</a> <br/>
+&emsp;│&emsp;│&emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/priorityBased/premitive">preemptive</a> <br/>
 &emsp;│&emsp;└─ shortestJob <br/>
-&emsp;│&emsp; &emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/shortestJob/nonpremitive">nonpremitive</a> <br/>
-&emsp;│&emsp; &emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/shortestJob/premitive">premitive</a> <br/>
+&emsp;│&emsp; &emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/shortestJob/nonpremitive">nonpreemptive</a> <br/>
+&emsp;│&emsp; &emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/thread/shortestJob/premitive">preemptive</a> <br/>
 &emsp;└─ playWithNumbers <br/>
 &emsp; &emsp;├─ factorial <br/>
 &emsp; &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/factorial/BigFactorials.c">BigFactorials</a> <br/>
