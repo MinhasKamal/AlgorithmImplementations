@@ -20,6 +20,7 @@ AlgorithmImplementations <br/>
 &emsp;│&emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/dataStructures/listImplementation/OneWayLinkedList.cpp">OneWayLinkedList</a> <br/>
 &emsp;│&emsp;│&emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/dataStructures/listImplementation/TwoWayLinkedList.cpp">TwoWayLinkedList</a> <br/>
 &emsp;│&emsp;├─ stack <br/>
+&emsp;│&emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/dataStructures/stack/StackImplementation.asm">StackImplementation</a> <br/>
 &emsp;│&emsp;│&emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/dataStructures/stack/StackImplementation.c">StackImplementation</a> <br/>
 &emsp;│&emsp;├─ string <br/>
 &emsp;│&emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/dataStructures/string/String.c">String</a> <br/>
@@ -95,6 +96,7 @@ AlgorithmImplementations <br/>
 &emsp; &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/primeNumber/GreatPrimeNumberHaunting.c">GreatPrimeNumberHaunting</a> <br/>
 &emsp; &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/primeNumber/GreatestPrimeNumberHaunting.c">GreatestPrimeNumberHaunting</a> <br/>
 &emsp; &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/primeNumber/PrimeNumber.c">PrimeNumber</a> <br/>
+&emsp; &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/primeNumber/PrimeNumberHaunting.asm">PrimeNumberHaunting</a> <br/>
 &emsp; &emsp;│&emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/primeNumber/PrimeNumberHaunting.c">PrimeNumberHaunting</a> <br/>
 &emsp; &emsp;└─ time <br/>
 &emsp; &emsp; &emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/time/AgeCalculator.c">AgeCalculator</a> <br/>
