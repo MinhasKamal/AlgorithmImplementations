@@ -57,7 +57,7 @@ AlgorithmImplementations <br/>
 &emsp;├─ others <br/>
 &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/others/cigaretteSmokersProblem">cigaretteSmokersProblem</a> <br/>
 &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/others/geneticAlgorithm">geneticAlgorithm</a> <br/>
-&emsp;│&emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/others/huffmanAlgorithm">huffmanAlgorithm</a> <br/>
+&emsp;│&emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/others/huffmanAlgorithm">huffmanAlgorithm</a> (<a href="https://github.com/MinhasKamal/FileSqueezer">¿</a>) (<a href="https://www.quora.com/What-is-the-coolest-thing-you-have-ever-created-alone-as-a-programmer/answer/Minhas-Kamal?srid=u2HNX">~</a>) <br/>
 &emsp;├─ search <br/>
 &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/search/aStarSearch">AStarSearch</a> <br/>
 &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/tree/master/search/binarySearch">BinarySearch</a> <br/>
@@ -89,7 +89,7 @@ AlgorithmImplementations <br/>
 &emsp; &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/pascalTriangle/PascalTriangle.c">PascalTriangle</a> <br/>
 &emsp; &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/pascalTriangle/Piramid.c">Piramid</a> <br/>
 &emsp; &emsp;│&emsp;└─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/pascalTriangle/RealPascalTriangle.c">RealPascalTriangle</a> <br/>
-&emsp; &emsp;├─ primeNumber <br/>
+&emsp; &emsp;├─ primeNumber (<a href="https://github.com/MinhasKamal/ProgrammerTransformation">Scrt Chmbr</a>) <br/>
 &emsp; &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/primeNumber/AnotherWayOfPrimeNumberHaunting.c">AnotherWayOfPrimeNumberHaunting</a> <br/>
 &emsp; &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/primeNumber/DefinitePrimeNumberHaunting.c">DefinitePrimeNumberHaunting</a> <br/>
 &emsp; &emsp;│&emsp;├─ <a href="https://github.com/MinhasKamal/AlgorithmImplementations/blob/master/playWithNumbers/primeNumber/Factors.c">Factors</a> <br/>
